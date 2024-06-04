@@ -1,1 +1,1 @@
-# Projects-HTML-CSS-
+This repository contains projects using HTML and CSS.
